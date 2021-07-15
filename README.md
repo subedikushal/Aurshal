@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aurshal&show_icons=true&theme=radical)
-)
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aurshal&show_icons=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aurshal&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Aurshal/Aurshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
